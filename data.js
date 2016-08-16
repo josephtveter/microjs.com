@@ -5057,5 +5057,13 @@ module.exports = [
     description: "Animation micro library. Vanilla JavaScript.",
     url: "https://github.com/branneman/TinyAnimate",
     source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
+  },
+  {
+    name: "FN_Deferred",
+    github: "josephtveter/fn_deferred",
+    tags: ["Deferred", "Promise A", "jquery", "Promise"],
+    description: "This library is to give Promise A Object support. It can easily replace jquery Deferred. And supports mulitple arguments to callbacks.",
+    url: "https://github.com/josephtveter/fn_deferred",
+    source: "https://github.com/josephtveter/fn_deferred/blob/master/FN_Deferred.min.js"
   }
 ];
